@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandwritingTestApplication</string>
+
+    <string name="handwriting_test">Handwriting Test</string>
+</resources>
